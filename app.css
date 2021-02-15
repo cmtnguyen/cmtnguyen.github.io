@@ -3,7 +3,7 @@ root {
 }
 * {
     box-sizing: border-box;
-    font-family: Optima, sans-serif, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Times New Roman, serif;
     margin: 0;
     padding: 0;
     color: #333;
@@ -38,10 +38,16 @@ h3 {
     font-size: 2.8rem;
     font-weight: 500;
 }
+h4{
+    font-size: 1.6 rem;
+    font-weight: 300;
+    margin-bottom: 2rem;
+}
 img {
     border-radius: 50%;
     height:400px;
-    width: auto;
+    width: 400px;
+    margin-bottom: 2rem;
   }
 
 /* UTILITIES */
