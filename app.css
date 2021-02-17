@@ -50,6 +50,9 @@ img {
     margin-bottom: 2rem;
   }
 
+body {
+    background-image: url("/Assets/Background.png");
+}
 /* UTILITIES */
 
 .container {
