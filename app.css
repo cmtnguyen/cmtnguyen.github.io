@@ -40,15 +40,17 @@ h3 {
 }
 h4{
     font-size: 1.6 rem;
-    font-weight: 300;
+    font-weight: 400;
     margin-bottom: 2rem;
 }
+
 img {
     border-radius: 50%;
-    height:400px;
-    width: 400px;
+    height:25rem;
+    width: 25rem;
     margin-bottom: 2rem;
-  }
+    float: left;
+}
 
 body {
     background-image: url("/Assets/Background.png");
@@ -103,10 +105,18 @@ body {
     transition: transform 150ms;
 }
 
+.container2 {
+    padding: 20px 40px 40px;
+    max-width: 100%;
+}
+.text {
+    display: inline;
+}
+
 .column {
     float: left;
     width: 33.33%;
-    padding: 15px;
+    padding: 20px;
   }
   
   /* Clear floats after image containers */

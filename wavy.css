@@ -1,0 +1,30 @@
+.wavy { 
+    position: relative; 
+} 
+
+.wavy span { 
+    position: relative; 
+    display: inline-block; 
+    font-size: 2em; 
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase; 
+    animation: animate 2s ease-in-out infinite; 
+    animation-delay: calc(0.1s * var(--i)); 
+} 
+
+@keyframes animate { 
+    0% { 
+        transform: translateY(0px); 
+    } 
+
+    20% { 
+        transform: translateY(-20px); 
+    } 
+
+    40%, 
+    100% { 
+        transform: translateY(0px); 
+    } 
+} 
