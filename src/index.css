@@ -1,0 +1,28 @@
+/* Google Font "Actor" */
+/* This was the font that was used in the design, we could change it later */
+@import url("https://fonts.googleapis.com/css2?family=Actor&display=swap");
+
+/* Affects all elements of html */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+/* CSS Varibles for color */
+:root {
+  --main-color: #56a5eb;
+  --main-hover: #3a8ab380;
+  --accent-color: #6989b9a1;
+  --main-white: #ffffff;
+  --accent-white: #f5f5f5;
+  --black: #2b2b2b;
+  --main-grey: #E5E5E5;
+  --background-purple: #F7E9FF;
+  --border-grey: #CACDD3;
+  --grey-hover: #ddd;
+
+}
