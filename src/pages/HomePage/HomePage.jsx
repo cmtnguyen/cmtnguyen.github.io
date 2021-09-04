@@ -50,7 +50,7 @@ return (
                     <a href="https://github.com/cmtnguyen"><img className ={styles.resize} src={GitHub}></img></a> 
                 </div>
                 <div className={styles.columns}>
-                    <Link to="/CatherineNguyenResume.pdf" target="_blank" download><img className ={styles.resize} src={Resume}></img></Link> 
+                    <Link to="Assets/CatherineNguyenResume.pdf" target="_blank" download><img className ={styles.resize} src={Resume}></img></Link> 
                 </div>
             </div>
         
