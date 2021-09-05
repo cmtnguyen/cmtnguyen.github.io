@@ -39,7 +39,7 @@ return (
                         Therefore, by being part of the creative process, I want to be able to design applications that are easy to use for all types of users.
                     </h4>
                     <p></p>
-                    <h4>Welcome to my page and I hope you enjoy your stay!</h4>
+                    <h4>Languages: HTML/CSS, C, JavaScript, Java, SQL</h4>
                 </div>
               </div>
             <div className={styles.row}>
