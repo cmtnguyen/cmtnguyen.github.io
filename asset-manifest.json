@@ -1,34 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.da7ce47b.chunk.css",
-    "main.js": "/static/js/main.0ec23e09.chunk.js",
-    "main.js.map": "/static/js/main.0ec23e09.chunk.js.map",
+    "main.css": "/static/css/main.1dda75c8.chunk.css",
+    "main.js": "/static/js/main.9eff0ac4.chunk.js",
+    "main.js.map": "/static/js/main.9eff0ac4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.acf9cc11.chunk.css": "/static/css/2.acf9cc11.chunk.css",
-    "static/js/2.cf47147c.chunk.js": "/static/js/2.cf47147c.chunk.js",
-    "static/js/2.cf47147c.chunk.js.map": "/static/js/2.cf47147c.chunk.js.map",
+    "static/js/2.f46135a6.chunk.js": "/static/js/2.f46135a6.chunk.js",
+    "static/js/2.f46135a6.chunk.js.map": "/static/js/2.f46135a6.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
-    "static/css/main.da7ce47b.chunk.css.map": "/static/css/main.da7ce47b.chunk.css.map",
-    "static/js/2.cf47147c.chunk.js.LICENSE.txt": "/static/js/2.cf47147c.chunk.js.LICENSE.txt",
-    "static/media/home.module.css": "/static/media/Background.404940c0.png",
+    "static/css/main.1dda75c8.chunk.css.map": "/static/css/main.1dda75c8.chunk.css.map",
+    "static/js/2.f46135a6.chunk.js.LICENSE.txt": "/static/js/2.f46135a6.chunk.js.LICENSE.txt",
+    "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
+    "static/media/home.module.css": "/static/media/Prof.ff7372ab.jpeg",
     "static/media/BadmintonPreview.59c622ac.mp4": "/static/media/BadmintonPreview.59c622ac.mp4",
     "static/media/Banking.8ccd3095.png": "/static/media/Banking.8ccd3095.png",
     "static/media/ChatRoomFigma.93db2796.png": "/static/media/ChatRoomFigma.93db2796.png",
     "static/media/ChatRoomPreview.6c5f1052.mp4": "/static/media/ChatRoomPreview.6c5f1052.mp4",
     "static/media/Climate.0a8012b4.jpg": "/static/media/Climate.0a8012b4.jpg",
     "static/media/Download.8687db82.png": "/static/media/Download.8687db82.png",
+    "static/media/Jade.8a70b2df.jpg": "/static/media/Jade.8a70b2df.jpg",
     "static/media/LinkedIn.59dda31c.png": "/static/media/LinkedIn.59dda31c.png",
     "static/media/March.4ab19b0d.png": "/static/media/March.4ab19b0d.png",
     "static/media/Maze.5487a871.jpg": "/static/media/Maze.5487a871.jpg",
+    "static/media/NorCalUVSA.c9b1068b.png": "/static/media/NorCalUVSA.c9b1068b.png",
     "static/media/QuizPreview.98bf9b87.mp4": "/static/media/QuizPreview.98bf9b87.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.acf9cc11.chunk.css",
-    "static/js/2.cf47147c.chunk.js",
-    "static/css/main.da7ce47b.chunk.css",
-    "static/js/main.0ec23e09.chunk.js"
+    "static/js/2.f46135a6.chunk.js",
+    "static/css/main.1dda75c8.chunk.css",
+    "static/js/main.9eff0ac4.chunk.js"
   ]
 }
