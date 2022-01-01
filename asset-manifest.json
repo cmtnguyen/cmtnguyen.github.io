@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6bc315af.chunk.css",
-    "main.js": "/static/js/main.704770f9.chunk.js",
-    "main.js.map": "/static/js/main.704770f9.chunk.js.map",
+    "main.css": "/static/css/main.3ab5a391.chunk.css",
+    "main.js": "/static/js/main.e9155112.chunk.js",
+    "main.js.map": "/static/js/main.e9155112.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.acf9cc11.chunk.css": "/static/css/2.acf9cc11.chunk.css",
-    "static/js/2.384a32b3.chunk.js": "/static/js/2.384a32b3.chunk.js",
-    "static/js/2.384a32b3.chunk.js.map": "/static/js/2.384a32b3.chunk.js.map",
+    "static/js/2.b43124e4.chunk.js": "/static/js/2.b43124e4.chunk.js",
+    "static/js/2.b43124e4.chunk.js.map": "/static/js/2.b43124e4.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
-    "static/css/main.6bc315af.chunk.css.map": "/static/css/main.6bc315af.chunk.css.map",
-    "static/js/2.384a32b3.chunk.js.LICENSE.txt": "/static/js/2.384a32b3.chunk.js.LICENSE.txt",
+    "static/css/main.3ab5a391.chunk.css.map": "/static/css/main.3ab5a391.chunk.css.map",
+    "static/js/2.b43124e4.chunk.js.LICENSE.txt": "/static/js/2.b43124e4.chunk.js.LICENSE.txt",
     "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
     "static/media/home.module.css": "/static/media/Prof.ff7372ab.jpeg",
     "static/media/BadmintonPreview.59c622ac.mp4": "/static/media/BadmintonPreview.59c622ac.mp4",
@@ -22,7 +22,6 @@
     "static/media/Download.8687db82.png": "/static/media/Download.8687db82.png",
     "static/media/Jade.8a70b2df.jpg": "/static/media/Jade.8a70b2df.jpg",
     "static/media/LinkedIn.59dda31c.png": "/static/media/LinkedIn.59dda31c.png",
-    "static/media/March.4ab19b0d.png": "/static/media/March.4ab19b0d.png",
     "static/media/Maze.5487a871.jpg": "/static/media/Maze.5487a871.jpg",
     "static/media/NorCalUVSA.c9b1068b.png": "/static/media/NorCalUVSA.c9b1068b.png",
     "static/media/QuizPreview.98bf9b87.mp4": "/static/media/QuizPreview.98bf9b87.mp4"
@@ -30,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.acf9cc11.chunk.css",
-    "static/js/2.384a32b3.chunk.js",
-    "static/css/main.6bc315af.chunk.css",
-    "static/js/main.704770f9.chunk.js"
+    "static/js/2.b43124e4.chunk.js",
+    "static/css/main.3ab5a391.chunk.css",
+    "static/js/main.e9155112.chunk.js"
   ]
 }
