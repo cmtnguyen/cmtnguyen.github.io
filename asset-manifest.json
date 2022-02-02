@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4a85c572.chunk.css",
-    "main.js": "/static/js/main.c84718a8.chunk.js",
-    "main.js.map": "/static/js/main.c84718a8.chunk.js.map",
+    "main.js": "/static/js/main.e30794be.chunk.js",
+    "main.js.map": "/static/js/main.e30794be.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.acf9cc11.chunk.css": "/static/css/2.acf9cc11.chunk.css",
-    "static/js/2.ca1e7cf6.chunk.js": "/static/js/2.ca1e7cf6.chunk.js",
-    "static/js/2.ca1e7cf6.chunk.js.map": "/static/js/2.ca1e7cf6.chunk.js.map",
+    "static/js/2.992e902d.chunk.js": "/static/js/2.992e902d.chunk.js",
+    "static/js/2.992e902d.chunk.js.map": "/static/js/2.992e902d.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
     "static/css/main.4a85c572.chunk.css.map": "/static/css/main.4a85c572.chunk.css.map",
-    "static/js/2.ca1e7cf6.chunk.js.LICENSE.txt": "/static/js/2.ca1e7cf6.chunk.js.LICENSE.txt",
+    "static/js/2.992e902d.chunk.js.LICENSE.txt": "/static/js/2.992e902d.chunk.js.LICENSE.txt",
     "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
     "static/media/home.module.css": "/static/media/Prof.ff7372ab.jpeg",
     "static/media/BadmintonPreview.59c622ac.mp4": "/static/media/BadmintonPreview.59c622ac.mp4",
@@ -25,15 +25,15 @@
     "static/media/Maze.5487a871.jpg": "/static/media/Maze.5487a871.jpg",
     "static/media/NorCalUVSA.c9b1068b.png": "/static/media/NorCalUVSA.c9b1068b.png",
     "static/media/QuizPreview.98bf9b87.mp4": "/static/media/QuizPreview.98bf9b87.mp4",
-    "static/media/TdlPreview.e02f6a69.mp4": "/static/media/TdlPreview.e02f6a69.mp4",
+    "static/media/TdlPreview.5f8ca10a.mp4": "/static/media/TdlPreview.5f8ca10a.mp4",
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
     "static/media/uvsa-rebrand.53f8ec29.jpeg": "/static/media/uvsa-rebrand.53f8ec29.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.acf9cc11.chunk.css",
-    "static/js/2.ca1e7cf6.chunk.js",
+    "static/js/2.992e902d.chunk.js",
     "static/css/main.4a85c572.chunk.css",
-    "static/js/main.c84718a8.chunk.js"
+    "static/js/main.e30794be.chunk.js"
   ]
 }
