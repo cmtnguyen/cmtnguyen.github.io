@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.48a96d37.chunk.css",
-    "main.js": "/static/js/main.4cc1eb46.chunk.js",
-    "main.js.map": "/static/js/main.4cc1eb46.chunk.js.map",
+    "main.css": "/static/css/main.fd2864ee.chunk.css",
+    "main.js": "/static/js/main.05c7db29.chunk.js",
+    "main.js.map": "/static/js/main.05c7db29.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.44bdf5d7.chunk.js": "/static/js/2.44bdf5d7.chunk.js",
-    "static/js/2.44bdf5d7.chunk.js.map": "/static/js/2.44bdf5d7.chunk.js.map",
+    "static/js/2.c011b4ef.chunk.js": "/static/js/2.c011b4ef.chunk.js",
+    "static/js/2.c011b4ef.chunk.js.map": "/static/js/2.c011b4ef.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
-    "static/css/main.48a96d37.chunk.css.map": "/static/css/main.48a96d37.chunk.css.map",
-    "static/js/2.44bdf5d7.chunk.js.LICENSE.txt": "/static/js/2.44bdf5d7.chunk.js.LICENSE.txt",
+    "static/css/main.fd2864ee.chunk.css.map": "/static/css/main.fd2864ee.chunk.css.map",
+    "static/js/2.c011b4ef.chunk.js.LICENSE.txt": "/static/js/2.c011b4ef.chunk.js.LICENSE.txt",
     "static/media/404.f6fdbc14.png": "/static/media/404.f6fdbc14.png",
     "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
     "static/media/home.module.css": "/static/media/Prof.ff7372ab.jpeg",
@@ -32,14 +32,16 @@
     "static/media/TdlLanding.d4422b70.png": "/static/media/TdlLanding.d4422b70.png",
     "static/media/TdlPreview.5f8ca10a.mp4": "/static/media/TdlPreview.5f8ca10a.mp4",
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
-    "static/media/card.module.css": "/static/media/github-square.63ea30b7.svg",
-    "static/media/uvsa-rebrand.53f8ec29.jpeg": "/static/media/uvsa-rebrand.53f8ec29.jpeg"
+    "static/media/card.module.css": "/static/media/text.d08ad192.svg",
+    "static/media/uvsa-rebrand.53f8ec29.jpeg": "/static/media/uvsa-rebrand.53f8ec29.jpeg",
+    "static/media/wtdDesign.a2e4838d.png": "/static/media/wtdDesign.a2e4838d.png",
+    "static/media/wtdPages.b6d71441.png": "/static/media/wtdPages.b6d71441.png"
   },
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.44bdf5d7.chunk.js",
-    "static/css/main.48a96d37.chunk.css",
-    "static/js/main.4cc1eb46.chunk.js"
+    "static/js/2.c011b4ef.chunk.js",
+    "static/css/main.fd2864ee.chunk.css",
+    "static/js/main.05c7db29.chunk.js"
   ]
 }
