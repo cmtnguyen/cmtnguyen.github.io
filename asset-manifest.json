@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e82fbca0.chunk.css",
-    "main.js": "/static/js/main.c11cac80.chunk.js",
-    "main.js.map": "/static/js/main.c11cac80.chunk.js.map",
+    "main.js": "/static/js/main.3ea00411.chunk.js",
+    "main.js.map": "/static/js/main.3ea00411.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.dd80b13d.chunk.js": "/static/js/2.dd80b13d.chunk.js",
-    "static/js/2.dd80b13d.chunk.js.map": "/static/js/2.dd80b13d.chunk.js.map",
+    "static/js/2.6c822c50.chunk.js": "/static/js/2.6c822c50.chunk.js",
+    "static/js/2.6c822c50.chunk.js.map": "/static/js/2.6c822c50.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
     "static/css/main.e82fbca0.chunk.css.map": "/static/css/main.e82fbca0.chunk.css.map",
-    "static/js/2.dd80b13d.chunk.js.LICENSE.txt": "/static/js/2.dd80b13d.chunk.js.LICENSE.txt",
+    "static/js/2.6c822c50.chunk.js.LICENSE.txt": "/static/js/2.6c822c50.chunk.js.LICENSE.txt",
     "static/media/404.f6fdbc14.png": "/static/media/404.f6fdbc14.png",
     "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
     "static/media/home.module.css": "/static/media/Prof.ff7372ab.jpeg",
@@ -23,6 +23,8 @@
     "static/media/CoachingV1.521b9aff.png": "/static/media/CoachingV1.521b9aff.png",
     "static/media/CoachingV2.bcd1498a.png": "/static/media/CoachingV2.bcd1498a.png",
     "static/media/CoachingV3.5495f4dd.png": "/static/media/CoachingV3.5495f4dd.png",
+    "static/media/ContractDesign.1cf15cc9.png": "/static/media/ContractDesign.1cf15cc9.png",
+    "static/media/ContractLanding.653d3a74.png": "/static/media/ContractLanding.653d3a74.png",
     "static/media/Download.8687db82.png": "/static/media/Download.8687db82.png",
     "static/media/Jade.8a70b2df.jpg": "/static/media/Jade.8a70b2df.jpg",
     "static/media/Jade_Forgot.6f49c3a2.png": "/static/media/Jade_Forgot.6f49c3a2.png",
@@ -46,8 +48,8 @@
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.dd80b13d.chunk.js",
+    "static/js/2.6c822c50.chunk.js",
     "static/css/main.e82fbca0.chunk.css",
-    "static/js/main.c11cac80.chunk.js"
+    "static/js/main.3ea00411.chunk.js"
   ]
 }
