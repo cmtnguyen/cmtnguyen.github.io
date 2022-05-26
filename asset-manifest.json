@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.e82fbca0.chunk.css",
-    "main.js": "/static/js/main.da40e5fc.chunk.js",
-    "main.js.map": "/static/js/main.da40e5fc.chunk.js.map",
+    "main.js": "/static/js/main.343b032b.chunk.js",
+    "main.js.map": "/static/js/main.343b032b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.63b1eb17.chunk.js": "/static/js/2.63b1eb17.chunk.js",
-    "static/js/2.63b1eb17.chunk.js.map": "/static/js/2.63b1eb17.chunk.js.map",
+    "static/js/2.d163e52e.chunk.js": "/static/js/2.d163e52e.chunk.js",
+    "static/js/2.d163e52e.chunk.js.map": "/static/js/2.d163e52e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
     "static/css/main.e82fbca0.chunk.css.map": "/static/css/main.e82fbca0.chunk.css.map",
-    "static/js/2.63b1eb17.chunk.js.LICENSE.txt": "/static/js/2.63b1eb17.chunk.js.LICENSE.txt",
+    "static/js/2.d163e52e.chunk.js.LICENSE.txt": "/static/js/2.d163e52e.chunk.js.LICENSE.txt",
     "static/media/404.f6fdbc14.png": "/static/media/404.f6fdbc14.png",
     "static/media/AFCLanding.9cd4d5e9.png": "/static/media/AFCLanding.9cd4d5e9.png",
     "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
@@ -43,6 +43,7 @@
     "static/media/QuizPreview.fc4037ad.mp4": "/static/media/QuizPreview.fc4037ad.mp4",
     "static/media/Quiz_New.7b37c1aa.png": "/static/media/Quiz_New.7b37c1aa.png",
     "static/media/Quiz_OG.94bb2b89.png": "/static/media/Quiz_OG.94bb2b89.png",
+    "static/media/SJSU.39ac42ef.png": "/static/media/SJSU.39ac42ef.png",
     "static/media/TdlLanding.d4422b70.png": "/static/media/TdlLanding.d4422b70.png",
     "static/media/TdlPreview.5f8ca10a.mp4": "/static/media/TdlPreview.5f8ca10a.mp4",
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
@@ -54,8 +55,8 @@
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.63b1eb17.chunk.js",
+    "static/js/2.d163e52e.chunk.js",
     "static/css/main.e82fbca0.chunk.css",
-    "static/js/main.da40e5fc.chunk.js"
+    "static/js/main.343b032b.chunk.js"
   ]
 }
