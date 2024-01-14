@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.da2f54a7.chunk.css",
-    "main.js": "/static/js/main.159590b0.chunk.js",
-    "main.js.map": "/static/js/main.159590b0.chunk.js.map",
+    "main.js": "/static/js/main.fd2bc085.chunk.js",
+    "main.js.map": "/static/js/main.fd2bc085.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.eb455861.chunk.js": "/static/js/2.eb455861.chunk.js",
-    "static/js/2.eb455861.chunk.js.map": "/static/js/2.eb455861.chunk.js.map",
+    "static/js/2.4555ef13.chunk.js": "/static/js/2.4555ef13.chunk.js",
+    "static/js/2.4555ef13.chunk.js.map": "/static/js/2.4555ef13.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
     "static/css/main.da2f54a7.chunk.css.map": "/static/css/main.da2f54a7.chunk.css.map",
-    "static/js/2.eb455861.chunk.js.LICENSE.txt": "/static/js/2.eb455861.chunk.js.LICENSE.txt",
+    "static/js/2.4555ef13.chunk.js.LICENSE.txt": "/static/js/2.4555ef13.chunk.js.LICENSE.txt",
     "static/media/404.f6fdbc14.png": "/static/media/404.f6fdbc14.png",
     "static/media/AFCLanding.9cd4d5e9.png": "/static/media/AFCLanding.9cd4d5e9.png",
     "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
@@ -36,6 +36,10 @@
     "static/media/Craigslist_AffinityDisc.e7375596.png": "/static/media/Craigslist_AffinityDisc.e7375596.png",
     "static/media/Craigslist_AffinityTest.f416cd1c.png": "/static/media/Craigslist_AffinityTest.f416cd1c.png",
     "static/media/Craigslist_BGraph.f2d73f8b.png": "/static/media/Craigslist_BGraph.f2d73f8b.png",
+    "static/media/Craigslist_FinalCategory.91196e93.png": "/static/media/Craigslist_FinalCategory.91196e93.png",
+    "static/media/Craigslist_FinalHome.eeb4e86b.png": "/static/media/Craigslist_FinalHome.eeb4e86b.png",
+    "static/media/Craigslist_FinalListing.c5c958ba.png": "/static/media/Craigslist_FinalListing.c5c958ba.png",
+    "static/media/Craigslist_Journey.6149e46d.png": "/static/media/Craigslist_Journey.6149e46d.png",
     "static/media/Craigslist_Mary.792d7258.png": "/static/media/Craigslist_Mary.792d7258.png",
     "static/media/Craigslist_Roadmap.52bc8371.png": "/static/media/Craigslist_Roadmap.52bc8371.png",
     "static/media/Cucinare.a34694d4.png": "/static/media/Cucinare.a34694d4.png",
@@ -59,7 +63,6 @@
     "static/media/TdlLanding.d4422b70.png": "/static/media/TdlLanding.d4422b70.png",
     "static/media/TdlPreview.5f8ca10a.mp4": "/static/media/TdlPreview.5f8ca10a.mp4",
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
-    "static/media/WIP.62eba7f7.png": "/static/media/WIP.62eba7f7.png",
     "static/media/card.module.css": "/static/media/text.d08ad192.svg",
     "static/media/uvsa-rebrand.53f8ec29.jpeg": "/static/media/uvsa-rebrand.53f8ec29.jpeg",
     "static/media/wtdDesign.a2e4838d.png": "/static/media/wtdDesign.a2e4838d.png",
@@ -68,8 +71,8 @@
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.eb455861.chunk.js",
+    "static/js/2.4555ef13.chunk.js",
     "static/css/main.da2f54a7.chunk.css",
-    "static/js/main.159590b0.chunk.js"
+    "static/js/main.fd2bc085.chunk.js"
   ]
 }
