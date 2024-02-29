@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.dd37096e.chunk.css",
-    "main.js": "/static/js/main.9ef78263.chunk.js",
-    "main.js.map": "/static/js/main.9ef78263.chunk.js.map",
+    "main.js": "/static/js/main.9876f1eb.chunk.js",
+    "main.js.map": "/static/js/main.9876f1eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
@@ -28,18 +28,21 @@
     "static/media/CoachingV4.5ca23dc0.png": "/static/media/CoachingV4.5ca23dc0.png",
     "static/media/ContractDesign.1cf15cc9.png": "/static/media/ContractDesign.1cf15cc9.png",
     "static/media/ContractLanding.653d3a74.png": "/static/media/ContractLanding.653d3a74.png",
-    "static/media/Cragislist_A.bd6464df.png": "/static/media/Cragislist_A.bd6464df.png",
-    "static/media/Cragislist_AB.b26a5b91.png": "/static/media/Cragislist_AB.b26a5b91.png",
-    "static/media/Cragislist_B.d413c186.png": "/static/media/Cragislist_B.d413c186.png",
     "static/media/CraigListLogo.fec0cdbc.png": "/static/media/CraigListLogo.fec0cdbc.png",
+    "static/media/Craigislist_A.bd6464df.png": "/static/media/Craigislist_A.bd6464df.png",
+    "static/media/Craigislist_AB.b26a5b91.png": "/static/media/Craigislist_AB.b26a5b91.png",
+    "static/media/Craigislist_B.d413c186.png": "/static/media/Craigislist_B.d413c186.png",
     "static/media/Craigslist_AGraph.1e1c9ccd.png": "/static/media/Craigslist_AGraph.1e1c9ccd.png",
     "static/media/Craigslist_AffinityDisc.e7375596.png": "/static/media/Craigslist_AffinityDisc.e7375596.png",
     "static/media/Craigslist_AffinityTest.f416cd1c.png": "/static/media/Craigslist_AffinityTest.f416cd1c.png",
     "static/media/Craigslist_BGraph.f2d73f8b.png": "/static/media/Craigslist_BGraph.f2d73f8b.png",
+    "static/media/Craigslist_Category.b0b0b273.png": "/static/media/Craigslist_Category.b0b0b273.png",
     "static/media/Craigslist_FinalCategory.91196e93.png": "/static/media/Craigslist_FinalCategory.91196e93.png",
     "static/media/Craigslist_FinalHome.eeb4e86b.png": "/static/media/Craigslist_FinalHome.eeb4e86b.png",
     "static/media/Craigslist_FinalListing.c5c958ba.png": "/static/media/Craigslist_FinalListing.c5c958ba.png",
+    "static/media/Craigslist_Home.a61c8497.png": "/static/media/Craigslist_Home.a61c8497.png",
     "static/media/Craigslist_Journey.6149e46d.png": "/static/media/Craigslist_Journey.6149e46d.png",
+    "static/media/Craigslist_Listing.1512e65e.png": "/static/media/Craigslist_Listing.1512e65e.png",
     "static/media/Craigslist_Mary.792d7258.png": "/static/media/Craigslist_Mary.792d7258.png",
     "static/media/Craigslist_Roadmap.52bc8371.png": "/static/media/Craigslist_Roadmap.52bc8371.png",
     "static/media/Cucinare.a34694d4.png": "/static/media/Cucinare.a34694d4.png",
@@ -74,6 +77,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.9fca6913.chunk.js",
     "static/css/main.dd37096e.chunk.css",
-    "static/js/main.9ef78263.chunk.js"
+    "static/js/main.9876f1eb.chunk.js"
   ]
 }
