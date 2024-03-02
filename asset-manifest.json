@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.dd37096e.chunk.css",
-    "main.js": "/static/js/main.9876f1eb.chunk.js",
-    "main.js.map": "/static/js/main.9876f1eb.chunk.js.map",
+    "main.js": "/static/js/main.dd6a7a19.chunk.js",
+    "main.js.map": "/static/js/main.dd6a7a19.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.9fca6913.chunk.js": "/static/js/2.9fca6913.chunk.js",
-    "static/js/2.9fca6913.chunk.js.map": "/static/js/2.9fca6913.chunk.js.map",
+    "static/js/2.63d4bd28.chunk.js": "/static/js/2.63d4bd28.chunk.js",
+    "static/js/2.63d4bd28.chunk.js.map": "/static/js/2.63d4bd28.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
     "static/css/main.dd37096e.chunk.css.map": "/static/css/main.dd37096e.chunk.css.map",
-    "static/js/2.9fca6913.chunk.js.LICENSE.txt": "/static/js/2.9fca6913.chunk.js.LICENSE.txt",
+    "static/js/2.63d4bd28.chunk.js.LICENSE.txt": "/static/js/2.63d4bd28.chunk.js.LICENSE.txt",
     "static/media/404.f6fdbc14.png": "/static/media/404.f6fdbc14.png",
     "static/media/AFCLanding.9cd4d5e9.png": "/static/media/AFCLanding.9cd4d5e9.png",
     "static/media/ASA.970190c7.png": "/static/media/ASA.970190c7.png",
@@ -66,6 +66,12 @@
     "static/media/TdlLanding.d4422b70.png": "/static/media/TdlLanding.d4422b70.png",
     "static/media/TdlPreview.5f8ca10a.mp4": "/static/media/TdlPreview.5f8ca10a.mp4",
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
+    "static/media/Venmo_Groups.ce04c27d.png": "/static/media/Venmo_Groups.ce04c27d.png",
+    "static/media/Venmo_Mark.cc069999.png": "/static/media/Venmo_Mark.cc069999.png",
+    "static/media/Venmo_Pie.ba8483aa.png": "/static/media/Venmo_Pie.ba8483aa.png",
+    "static/media/Venmo_Roadmap.978c82f5.png": "/static/media/Venmo_Roadmap.978c82f5.png",
+    "static/media/Venmo_Scatter.dbe8915f.png": "/static/media/Venmo_Scatter.dbe8915f.png",
+    "static/media/Venmo_UserReqs.990f6b00.png": "/static/media/Venmo_UserReqs.990f6b00.png",
     "static/media/WIP.62eba7f7.png": "/static/media/WIP.62eba7f7.png",
     "static/media/card.module.css": "/static/media/text.d08ad192.svg",
     "static/media/uvsa-rebrand.53f8ec29.jpeg": "/static/media/uvsa-rebrand.53f8ec29.jpeg",
@@ -75,8 +81,8 @@
   "entrypoints": [
     "static/js/runtime-main.408c6aad.js",
     "static/css/2.8c0e6b67.chunk.css",
-    "static/js/2.9fca6913.chunk.js",
+    "static/js/2.63d4bd28.chunk.js",
     "static/css/main.dd37096e.chunk.css",
-    "static/js/main.9876f1eb.chunk.js"
+    "static/js/main.dd6a7a19.chunk.js"
   ]
 }
