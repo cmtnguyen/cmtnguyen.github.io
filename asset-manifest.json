@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.dd37096e.chunk.css",
-    "main.js": "/static/js/main.b4e202a7.chunk.js",
-    "main.js.map": "/static/js/main.b4e202a7.chunk.js.map",
+    "main.js": "/static/js/main.7a9551d7.chunk.js",
+    "main.js.map": "/static/js/main.7a9551d7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
@@ -68,9 +68,9 @@
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
     "static/media/Venmo_Groups.ce04c27d.png": "/static/media/Venmo_Groups.ce04c27d.png",
     "static/media/Venmo_Mark.cc069999.png": "/static/media/Venmo_Mark.cc069999.png",
-    "static/media/Venmo_Pie.ba8483aa.png": "/static/media/Venmo_Pie.ba8483aa.png",
+    "static/media/Venmo_Pie.0ea327d8.png": "/static/media/Venmo_Pie.0ea327d8.png",
     "static/media/Venmo_Roadmap.978c82f5.png": "/static/media/Venmo_Roadmap.978c82f5.png",
-    "static/media/Venmo_Scatter.dbe8915f.png": "/static/media/Venmo_Scatter.dbe8915f.png",
+    "static/media/Venmo_Scatter.90d6dabb.png": "/static/media/Venmo_Scatter.90d6dabb.png",
     "static/media/Venmo_UserReqs.990f6b00.png": "/static/media/Venmo_UserReqs.990f6b00.png",
     "static/media/WIP.62eba7f7.png": "/static/media/WIP.62eba7f7.png",
     "static/media/card.module.css": "/static/media/text.d08ad192.svg",
@@ -83,6 +83,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.63d4bd28.chunk.js",
     "static/css/main.dd37096e.chunk.css",
-    "static/js/main.b4e202a7.chunk.js"
+    "static/js/main.7a9551d7.chunk.js"
   ]
 }
