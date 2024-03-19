@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a4083dca.chunk.css",
-    "main.js": "/static/js/main.a26cd43a.chunk.js",
-    "main.js.map": "/static/js/main.a26cd43a.chunk.js.map",
+    "main.js": "/static/js/main.ee49df99.chunk.js",
+    "main.js.map": "/static/js/main.ee49df99.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
@@ -57,6 +57,7 @@
     "static/media/Monet.700d9738.png": "/static/media/Monet.700d9738.png",
     "static/media/NorCalUVSA.c9b1068b.png": "/static/media/NorCalUVSA.c9b1068b.png",
     "static/media/home.module.css": "/static/media/Prof.66f2e15e.png",
+    "static/media/Prototypes.acf7b03a.mp4": "/static/media/Prototypes.acf7b03a.mp4",
     "static/media/QuizLanding.86e5b616.png": "/static/media/QuizLanding.86e5b616.png",
     "static/media/QuizPreview.fc4037ad.mp4": "/static/media/QuizPreview.fc4037ad.mp4",
     "static/media/Quiz_New.7b37c1aa.png": "/static/media/Quiz_New.7b37c1aa.png",
@@ -66,6 +67,9 @@
     "static/media/TdlLanding.d4422b70.png": "/static/media/TdlLanding.d4422b70.png",
     "static/media/TdlPreview.5f8ca10a.mp4": "/static/media/TdlPreview.5f8ca10a.mp4",
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
+    "static/media/Venmo_A.2cd4741f.png": "/static/media/Venmo_A.2cd4741f.png",
+    "static/media/Venmo_B.b08632b8.png": "/static/media/Venmo_B.b08632b8.png",
+    "static/media/Venmo_Feedback.15714e12.png": "/static/media/Venmo_Feedback.15714e12.png",
     "static/media/Venmo_Groups.ce04c27d.png": "/static/media/Venmo_Groups.ce04c27d.png",
     "static/media/Venmo_Mark.cc069999.png": "/static/media/Venmo_Mark.cc069999.png",
     "static/media/Venmo_Pie.0ea327d8.png": "/static/media/Venmo_Pie.0ea327d8.png",
@@ -83,6 +87,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.3a203045.chunk.js",
     "static/css/main.a4083dca.chunk.css",
-    "static/js/main.a26cd43a.chunk.js"
+    "static/js/main.ee49df99.chunk.js"
   ]
 }
