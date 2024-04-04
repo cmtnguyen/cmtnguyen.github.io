@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5d6ca72b.chunk.css",
-    "main.js": "/static/js/main.b4d2cc4e.chunk.js",
-    "main.js.map": "/static/js/main.b4d2cc4e.chunk.js.map",
+    "main.js": "/static/js/main.b4c140f0.chunk.js",
+    "main.js.map": "/static/js/main.b4c140f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.408c6aad.js",
     "runtime-main.js.map": "/static/js/runtime-main.408c6aad.js.map",
     "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
@@ -63,6 +63,7 @@
     "static/media/Quiz_OG.94bb2b89.png": "/static/media/Quiz_OG.94bb2b89.png",
     "static/media/R1.9e18313d.jpg": "/static/media/R1.9e18313d.jpg",
     "static/media/SJSU.39ac42ef.png": "/static/media/SJSU.39ac42ef.png",
+    "static/media/TdlFlow.9cd60858.png": "/static/media/TdlFlow.9cd60858.png",
     "static/media/TdlLanding.d4422b70.png": "/static/media/TdlLanding.d4422b70.png",
     "static/media/TdlPreview.5f8ca10a.mp4": "/static/media/TdlPreview.5f8ca10a.mp4",
     "static/media/UVSA-site.17d56800.mp4": "/static/media/UVSA-site.17d56800.mp4",
@@ -90,6 +91,6 @@
     "static/css/2.8c0e6b67.chunk.css",
     "static/js/2.a84dae93.chunk.js",
     "static/css/main.5d6ca72b.chunk.css",
-    "static/js/main.b4d2cc4e.chunk.js"
+    "static/js/main.b4c140f0.chunk.js"
   ]
 }
